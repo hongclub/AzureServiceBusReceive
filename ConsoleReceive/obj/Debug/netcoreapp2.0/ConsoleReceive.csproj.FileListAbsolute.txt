@@ -1,0 +1,11 @@
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\bin\Debug\netcoreapp2.0\ConsoleReceive.deps.json
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\bin\Debug\netcoreapp2.0\ConsoleReceive.runtimeconfig.json
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\bin\Debug\netcoreapp2.0\ConsoleReceive.runtimeconfig.dev.json
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\bin\Debug\netcoreapp2.0\ConsoleReceive.dll
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\obj\Debug\netcoreapp2.0\ConsoleReceive.csproj.CoreCompileInputs.cache
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\obj\Debug\netcoreapp2.0\ConsoleReceive.AssemblyInfoInputs.cache
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\obj\Debug\netcoreapp2.0\ConsoleReceive.AssemblyInfo.cs
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\bin\Debug\netcoreapp2.0\ConsoleReceive.pdb
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\obj\Debug\netcoreapp2.0\ConsoleReceive.csprojAssemblyReference.cache
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\obj\Debug\netcoreapp2.0\ConsoleReceive.dll
+c:\users\x104186\source\repos\ConsoleReceive\ConsoleReceive\obj\Debug\netcoreapp2.0\ConsoleReceive.pdb
